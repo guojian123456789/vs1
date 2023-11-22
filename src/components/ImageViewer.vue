@@ -32,27 +32,29 @@ export default {
         margin-top: -2%;
         .img1{
             position: relative;
-            width: 100%;
-            margin-top: 12%;
+            width: 95%;
+            margin-top: 15%;
             margin-left: 3%;
         }
         .img2{
             position: relative;
-            width: 100%;
-            margin-top: 12%;
+            width: 95%;
+            margin-top: 15%;
             margin-left: -2%;
         }
         .text1{
           position: relative;
           width: 100%;
           margin-left: 25%;
-          font-size:150%;
+          margin-top: -2%;
+          font-size:115%;
         }
         .text2{
           position: relative;
           width: 100%;
           margin-left: 25%;
-          font-size:150%;
+          margin-top: -2%;
+          font-size:120%;
         }
       }
 

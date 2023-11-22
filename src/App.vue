@@ -1,3 +1,4 @@
+<script src="../vue.config.js"></script>
 <script>
 
 </script>
@@ -174,7 +175,7 @@ export default {
             padding-top: 1%;
             height: 10%;
             width: 100%;
-            font-size: 370%; /* 更改字体大小 */
+            font-size: 2.5em; /* 更改字体大小 */
             font-weight: bold; /* 加粗文本 */
             color: #ffffff; /* 更改文本颜色 */
             text-align: center; /* 文本水平居中对齐 */

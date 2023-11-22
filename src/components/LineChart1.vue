@@ -400,17 +400,20 @@ console.log('this.colors:', this.colors);
   position: relative;
   .linechart {
     position: absolute;
-    height: 95%;
-    width: 105%;
+    height: 100%;
+    width: 100%;
     margin-top: 8%;
-    margin-left: -3%;
+    margin-left: 0;
     z-index: 1;
+    padding-bottom: 1%;
   }
   .selectdate {
     position: absolute;
     margin-left: 2%;
-    margin-top: 6.5%;
+    margin-top: 7%;
     z-index: 2;
+    height: 7%;
+    width: 17%;
   }
 }
 </style>

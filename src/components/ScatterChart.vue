@@ -77,7 +77,7 @@ export default {
       textStyle: {
         color: 'white'
       },
-      top:'20px',
+      top:'10px',
     },
         xAxis: {
           type: 'category',
@@ -166,10 +166,11 @@ export default {
   position: relative;
   .scatterchart {
     height: 100%;
-    width: 105%;
+    width: 100%;
     position: relative;
-    margin-left: -1%;
-    padding-top: 5%;
+    margin-left: 1%;
+    top: 13%;
+    padding-bottom: 4%;
   }
 }
 </style>

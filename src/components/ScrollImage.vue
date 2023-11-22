@@ -41,7 +41,7 @@ export default {
 }
 
 .image {
-  margin-top: 4%;
+  margin-top: 8%;
   max-width: 80%;
   max-height: 80%;
 }

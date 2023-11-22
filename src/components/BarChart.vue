@@ -1,3 +1,4 @@
+<script src="../../vue.config.js"></script>
 <template>
   <div class="box">
     <!-- 为 ECharts 准备一个定义了宽高的 DOM -->
@@ -30,8 +31,8 @@ export default {
 
       },
       legend: {
-        top:'1%',
-        width:'60%',
+        top:'4%',
+        width:'80%',
         textStyle:{
           color:'white',
         }
@@ -197,10 +198,11 @@ export default {
     height: 100%;
     .barchart{
       position: relative;
-      height: 95%;
-      width: 96%;
+      height: 100%;
+      width: 97%;
       padding-top:7%;
       padding-left: 0.5%;
+      padding-bottom: 1%;
 
     }
   }

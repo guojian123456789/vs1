@@ -174,11 +174,11 @@ export default {
 
   }
   .sd-map-container {
-    position: absolute;
-    height: 200%;
+    position: relative;
+    height: 800px;
     width: 120%;
-    margin-top: -50%;
-    left: -9%;
+    margin-top: -23%;
+    left: -10%;
     z-index: 1;
   }
   .selectlocationtoolbar {
@@ -191,7 +191,7 @@ export default {
     border-radius: 4px; /* 圆角边框 */
     padding: 5px 10px; /* 内边距 */
     height: 3%;
-    width: 10%;
+    width: 13%;
   }
 }
 </style>

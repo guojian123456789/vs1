@@ -19,9 +19,9 @@ export default {
     .box{
         .img1{
             position: relative;
-            width: 85%;
-            margin-top: 8%;
-            margin-left: 7%;
+            width: 80%;
+            margin-top: 9%;
+            margin-left: 10%;
         }
     }
 
